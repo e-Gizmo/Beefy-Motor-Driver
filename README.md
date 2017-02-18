@@ -1,4 +1,4 @@
-/PWM# Beefy-Motor-Driver
+# Beefy-Motor-Driver
 http://www.e-gizmo.com/oc/index.php?route=product/product&product_id=1241&search=beefy
 ### Technical Manual rev 0
 - The Beefy H-Bridge Motor Driver is the latest variants in our high current DC Motor driver series. When used in intermittent low duty applications (e.g Mobile Robots)
