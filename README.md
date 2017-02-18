@@ -14,4 +14,15 @@ http://www.e-gizmo.com/oc/index.php?route=product/product&product_id=1241&search
 
 ### Wiring Example
 
+| gizDuinoPLUS | Beefy Motor Driver |
+| ------ | ------ |
+|GND| GND |
+| Reset | RST |
+| +5V | SR |
+| PIN 3 | PH |
+| +5V | PWL |
+| PIN 4 | PWH |
+
+##IMAGE
+
 ![Imgur](http://i.imgur.com/K91hXO3.png)
