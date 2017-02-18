@@ -13,4 +13,5 @@ http://www.e-gizmo.com/oc/index.php?route=product/product&product_id=1241&search
 | Indicators | Two LED Fault Indicators |
 
 ### Wiring Example
-![Imgur](ttp://i.imgur.com/K91hXO3.png)
+
+![Imgur](http://i.imgur.com/K91hXO3.png)
